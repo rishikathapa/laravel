@@ -1,0 +1,29 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state"
+    ],
+    "content-hash": "c018252fbbf5a8e0cb20e36ecaa93f77",
+    "packages": [
+        {
+            "name": "laravel/framework",
+            "version": "v11.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/laravel/framework.git",
+                "reference": "d386d3d63973c52a3b93ee990ee4bc45"
+            },
+            "type": "library"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": true,
+    "prefer-lowest": false,
+    "platform": {
+        "php": "^8.2"
+    },
+    "platform-dev": {},
+    "plugin-api-version": "2.6.0"
+}
