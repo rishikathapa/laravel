@@ -10,7 +10,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "d386d3d63973c52a3b93ee990ee4bc45"
+                "reference": "6fa8770ee3b97b102ce0b9fa54817d12f13ff5ce"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/6fa8770ee3b97b102ce0b9fa54817d12f13ff5ce",
+                "reference": "6fa8770ee3b97b102ce0b9fa54817d12f13ff5ce",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^8.2"
             },
             "type": "library"
         }
