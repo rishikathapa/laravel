@@ -1,12 +1,13 @@
 {
     "name": "laravel/laravel",
     "type": "project",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "description": "The skeleton application for the Laravel framework.",
+    "keywords": ["laravel", "framework"],
     "license": "MIT",
     "require": {
         "php": "^8.2",
-        "laravel/framework": "^11.0"
+        "laravel/framework": "^11.0",
+        "laravel/tinker": "^2.9"
     },
     "autoload": {
         "psr-4": {
