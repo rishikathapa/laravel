@@ -2,7 +2,7 @@
     "_readme": [
         "This file locks the dependencies of your project to a known state"
     ],
-    "content-hash": "c018252fbbf5a8e0cb20e36ecaa93f77",
+    "content-hash": "3e9b048d0a852e90c8845c43d2c884f1",
     "packages": [
         {
             "name": "laravel/framework",
