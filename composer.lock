@@ -22,6 +22,25 @@
                 "php": "^8.2"
             },
             "type": "library"
+        },
+        {
+            "name": "laravel/tinker",
+            "version": "v2.9.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/laravel/tinker.git",
+                "reference": "502e067f4ed2f3ed11295e865f3a09e088a8d0db"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/laravel/tinker/zipball/502e067f4ed2f3ed11295e865f3a09e088a8d0db",
+                "reference": "502e067f4ed2f3ed11295e865f3a09e088a8d0db",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^8.2"
+            },
+            "type": "library"
         }
     ],
     "packages-dev": [],
