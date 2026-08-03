@@ -10,12 +10,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "6fa8770ee3b97b102ce0b9fa54817d12f13ff5ce"
+                "reference": "v11.0.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/6fa8770ee3b97b102ce0b9fa54817d12f13ff5ce",
-                "reference": "6fa8770ee3b97b102ce0b9fa54817d12f13ff5ce",
+                "url": "https://github.com/laravel/framework/archive/refs/tags/v11.0.0.zip",
+                "reference": "v11.0.0",
                 "shasum": ""
             },
             "require": {
@@ -29,12 +29,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/tinker.git",
-                "reference": "502e067f4ed2f3ed11295e865f3a09e088a8d0db"
+                "reference": "v2.9.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/tinker/zipball/502e067f4ed2f3ed11295e865f3a09e088a8d0db",
-                "reference": "502e067f4ed2f3ed11295e865f3a09e088a8d0db",
+                "url": "https://github.com/laravel/tinker/archive/refs/tags/v2.9.0.zip",
+                "reference": "v2.9.0",
                 "shasum": ""
             },
             "require": {
